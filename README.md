@@ -6,7 +6,7 @@ Architectural Decision Record templates for a lightweight ADR toolset [adr-tools
 * [Where to start](#where-to-start)
 * [Architectural drivers](#architectural-drivers)
 * [Examples](#examples)
-* [License](#license)
+* [Licence](#licence)
 
 ## How to name ADRs
 
@@ -14,7 +14,7 @@ Architectural Decision Record templates for a lightweight ADR toolset [adr-tools
 
 ## Where to start
 
-See first decision example [0001-documenting-architecture-decisions.md](https://github.com/kopach/adr-templates/blob/master/0001-documenting-architecture-decisions.md). Copy/paste it to you ADR log folder and use as starting poit.
+See first decision example [0001-documenting-architecture-decisions.md](https://github.com/kopach/adr-templates/blob/master/0001-documenting-architecture-decisions.md). Copy/paste it to you ADR log folder and use as starting point.
 
 ## Architectural drivers
 
@@ -34,12 +34,12 @@ See first decision example [0001-documenting-architecture-decisions.md](https://
   * knowledge
 * Conventions
   * Company wide rules & conventions
-  * Other forces (e.g. choosig technology to be competitive on market)
+  * Other forces (e.g. choosing technology to be competitive on market)
 
 ## Examples
 
 See [karma-sabarivka-reporter](https://github.com/kopach/karma-sabarivka-reporter) project for ADR examples in real project
 
-## License
+## Licence
 
 This software is licensed under the [MIT](https://github.com/kopach/adr-templates/blob/master/LICENSE)
